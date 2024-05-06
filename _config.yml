@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: totoku103's homepage
+remote_theme: pages-themes/cayman@v0.2.0
+title: totoku103
 description: 혼자 끄적끄적 거리는 글들
+plugins:
+  - jekyll-remote-theme
